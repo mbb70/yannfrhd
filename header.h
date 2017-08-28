@@ -24,7 +24,7 @@ extern "C" {
 #define BETA 0.9
 #define H_N 512
 #define ETA 0.01
-#define LAMBDA 0.0005
+#define LAMBDA 0
 #define NUM_THREADS 1
 #define NUM_MEMBERS 1
 
